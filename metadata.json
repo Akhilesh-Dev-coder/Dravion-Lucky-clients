@@ -1,0 +1,6 @@
+{
+  "name": "Pricing Wheel Lead Generator",
+  "description": "An engaging spinning wheel pricing game that lets web agency prospects win website project tiers and submit lead details directly to the agency owner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
